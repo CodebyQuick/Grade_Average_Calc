@@ -1,0 +1,8 @@
+# Ordner, die nicht hochgeladen werden sollen
+build/
+dist/
+*.spec
+
+# Dateien, die privat bleiben sollen
+*.db
+__pycache__/
